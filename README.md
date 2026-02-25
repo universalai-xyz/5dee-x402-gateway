@@ -433,4 +433,3 @@ MIT — fork it, ship it, make money with it.
 - [x402 GitHub](https://github.com/coinbase/x402)
 - [@x402/fetch SDK](https://www.npmjs.com/package/@x402/fetch)
 - [@x402/svm SDK](https://www.npmjs.com/package/@x402/svm)
-- [Bazaar Discovery Protocol](https://bazaar.computer)
