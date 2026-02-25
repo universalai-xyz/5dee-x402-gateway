@@ -2,8 +2,6 @@
 
 A production-ready, self-hosted payment gateway that implements the [x402 protocol](https://x402.org) — HTTP-native micropayments for APIs. Accept stablecoin payments (USDC) per-request with no API keys, no subscriptions, and no intermediaries.
 
-**Fork this repo, configure your backend, and start accepting crypto micropayments in minutes.**
-
 ## What is x402?
 
 x402 uses the HTTP `402 Payment Required` status code to create a machine-readable payment flow:
